@@ -13,16 +13,6 @@ int removed[31]={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 int friends[32]={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 
 
-void menu2()
-{
-
-
-
-
-}
-
-
-
 
 
  //next 2 procedures and 2 functions are used  in the other procedures ,we create it to help us
