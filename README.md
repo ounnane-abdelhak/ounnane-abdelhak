@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ounnane-abdelhak
-- 👀 I’m interested in programming
+- 👋 Hi, I’m ounnane-abdelhak a 3rd year Student at ESI Algiers.
+- 👀 I’m interested in web development and cybersecurity field.
 - 📫 How to reach me na_ounnane@esi.dz
 
 
