@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ounnane-abdelhak&theme=default&hide_border=true)
 
+![Abdelhak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ounnane-abdelhak&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+
 </div>
