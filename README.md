@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ounnane-abdelhak&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ounnane-abdelhak&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
