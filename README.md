@@ -1,24 +1,30 @@
-- I'm ounnane-abdelhak a 3rd year Student at ESI Algiers.
-- I'm interested in ZKP "zero knowledge proofs", blockchain auditing field, and web development.
-- How to reach me na_ounnane@esi.dz
-
-<!---
+<!--
 ounnane-abdelhak/ounnane-abdelhak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
 
-## GitHub Stats
+<p align="center">
+  <h1>Hi there, I'm Abdelhak 👋</h1>
+</p>
 
-<div align="center">
+<p align="center">
+  <strong>3rd year Student</strong> at <a href="https://esi.dz/">ESI Algiers</a>  
+
+  <strong>Interested in:</strong> ZKP (Zero-Knowledge Proofs ), Blockchain Auditing, Web Development
+</p>
+
+<p align="center">
+  <a href="mailto:na_ounnane@esi.dz">na_ounnane@esi.dz</a>
+</p>
+
+  
+<p align="center">
+  <img src="https://github-stats-extended-frontend-neon.vercel.app/api?username=ounnane-abdelhak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img src="https://github-stats-extended-frontend-neon.vercel.app/api/top-langs/?username=ounnane-abdelhak&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=html,css" alt="top langs" />
+</p>
+
+  
 
 
-<p><img align="center" src="https://github-stats-extended-frontend-neon.vercel.app/api?username=ounnane-abdelhak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="ounnane-abdelhak"/></p>
-
-<p><img align="left" src="https://github-stats-extended-frontend-neon.vercel.app/api/top-langs/?username=ounnane-abdelhak&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=html,css" alt="ounnane-abdelhak" /></p>
-<br clear="both" />
-
-<p><img src="https://streak-stats.demolab.com/?user=ounnane-abdelhak&theme=dark&hide_border=true" alt="streak graph" /></p>
-
-
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,c,cpp,html,css,tailwind,nodejs,express,react,next,git,docker,linux,mysql,mongodb,solidity&perline=15&theme=dark" alt="skills" />
+</p>
