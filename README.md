@@ -11,13 +11,14 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-![Abdelhak's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ounnane-abdelhak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&v=2 )
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ounnane-abdelhak&layout=compact&hide_border=true&theme=dark&exclude_repo=REPO1,REPO2&langs_count=6&hide=html,css )
+<p><img align="center" src="https://github-stats-extended-frontend-neon.vercel.app/api?username=ounnane-abdelhak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="ounnane-abdelhak"/></p>
 
-![Abdelhak's GitHub Stats](./profile/stats.svg) &nbsp;&nbsp;
-![Top Languages](./profile/top-langs.svg)
+<p><img align="left" src="https://github-stats-extended-frontend-neon.vercel.app/api/top-langs/?username=ounnane-abdelhak&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=html,css" alt="ounnane-abdelhak" /></p>
+<br clear="both" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ounnane-abdelhak&theme=dark&hide_border=true)
+<p><img src="https://streak-stats.demolab.com/?user=ounnane-abdelhak&theme=dark&hide_border=true" alt="streak graph" /></p>
+
+
 
 </div>
