@@ -7,7 +7,7 @@ ounnane-abdelhak/ounnane-abdelhak is a ✨ special ✨ repository because its `R
 </p>
 
 <p align="center">
-  <strong>3rd year Student</strong> at <a href="https://esi.dz/">ESI Algiers</a>  
+  <strong>4th year Student</strong> at <a href="https://esi.dz/">ESI Algiers</a>  
 
   <strong>Interested in:</strong> ZKP (Zero-Knowledge Proofs ), Blockchain Auditing, Web Development
 </p>
