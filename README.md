@@ -17,16 +17,7 @@ ounnane-abdelhak/ounnane-abdelhak is a ✨ special ✨ repository because its `R
 </p>
 
   
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=ounnane-abdelhak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ounnane-abdelhak&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=html,css"
-    alt="Top Languages"
-  />
-</p>
+<p align="center"> <img src="https://github-stats-extended-frontend-neon.vercel.app/api?username=ounnane-abdelhak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats" /> <img src="https://github-stats-extended-frontend-neon.vercel.app/api/top-langs/?username=ounnane-abdelhak&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=html,css" alt="top langs" /> </p>
   
 
 
