@@ -32,5 +32,5 @@ ounnane-abdelhak/ounnane-abdelhak is a ✨ special ✨ repository because its `R
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,c,cpp,html,css,tailwind,nodejs,express,react,next,git,docker,linux,mysql,mongodb,solidity&perline=15&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,jquery,rust,c,cpp,html,css,tailwind,nodejs,express,react,next,git,docker,linux,mysql,mongodb,solidity&perline=15&theme=dark" alt="skills" />
 </p>
